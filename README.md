@@ -13,8 +13,3 @@ I want to contribute to projects.
 ## 📊 GitHub İstatistikleri
 
 [![Adınızın GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=osmanmurat)](https://github.com/anuraghazra/github-readme-stats)
-Geriye dönüp baktığınızda faydalı bulabileceğiniz yazıları burada paylaşın.
-
-## 📊 GitHub İstatistikleri
-
-[![Adınızın GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=osmanmurat)](https://github.com/anuraghazra/github-readme-stats)
