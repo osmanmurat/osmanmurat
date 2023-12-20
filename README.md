@@ -29,5 +29,4 @@ I want to contribute to projects.
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=osmanmurat&show_icons=true&locale=en" alt="osmanmurat" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=osmanmurat&" alt="osmanmurat" /></p>
 
