@@ -38,7 +38,7 @@ My goal is to gain a solid place in the software industry and contribute to succ
 <br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=osmanmurat&show_icons=true&locale=en&layout=compact" alt="osmanmurat" /></p>
-
+<br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=osmanmurat&show_icons=true&locale=en" alt="osmanmurat" /></p>
 
 
