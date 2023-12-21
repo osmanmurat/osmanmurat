@@ -1,14 +1,5 @@
 <h1 align="center">Hello Everyone👋</h1>
-[TR]
-Merhaba, Ben bir Bilgisayar Mühendisi adayıyım ve yazılım alanında kendimi geliştirmek için yıllardır çaba gösteriyorum. Yazılıma lise yıllarında merakla başladım ve bu merakımı üniversiteye taşıdım. Celal Bayar Üniversitesi’nde Bilgisayar Programcılığı ön lisansımı bitirdikten sonra İnönü Üniversitesi’nde Bilgisayar Mühendisliği lisans eğitimime devam ediyorum.
 
-Programlama dilleri konusunda çeşitli eğitimler aldım ve projeler geliştirdim. Python, C, C#, C++, .NET, PHP, Kotlin, HTML, CSS gibi dillerde tecrübem bulunmakta. Ayrıca PostgreSQL, MySQL ve Microsoft SQL gibi veritabanlarıyla da projeler yaptım.
-
-Üniversitede GDSC topluluğunda çekirdek takım üyesi olarak yer aldım ve birçok başarılı etkinlikte görev aldım. .NET Back-End yazılım geliştiricisiyim ve bu alanda aldığım eğitimler ve sertifikalarla kendimi geliştirmeye devam ediyorum.
-
-Hedefim, yazılım sektöründe kendime sağlam bir yer edinmek ve başarılı projelere katkıda bulunmak. 
-
-[ENG]
 Hello, I am a Computer Engineer candidate and I have been striving to improve myself in the field of software for years. I started software with curiosity in high school years and carried this curiosity to university. After finishing my associate degree in Computer Programming at Celal Bayar University, I continue my undergraduate education in Computer Engineering at İnönü University.
 
 I have received various trainings on programming languages and developed projects. I have experience in languages such as Python, C, C#, C++, .NET, PHP, Kotlin, HTML, CSS. I have also done projects with databases such as PostgreSQL, MySQL and Microsoft SQL.
